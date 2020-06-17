@@ -4,11 +4,11 @@ import "./App.css";
 function HandleId() {
   return <h1>Hello</h1>;
 }
-const a = 6;
+
 function App() {
   return (
     <div>
-      <HandleId>{a}</HandleId>
+      <HandleId></HandleId>
     </div>
   );
 }
