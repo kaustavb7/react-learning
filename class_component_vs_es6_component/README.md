@@ -1,3 +1,5 @@
+Component & Props https://reactjs.org/docs/components-and-props.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
